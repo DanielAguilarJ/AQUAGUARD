@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FugasApp</string>
+    <string name="monitor_title">Leak Monitoring</string>
+    <string name="config_title">Settings</string>
+    <string name="endpoint_label">Backend Endpoint</string>
+    <string name="endpoint_hint">Example: https://yourbackend.com/api/</string>
+    <string name="error_label">Error</string>
+    <string name="historico_flujo">Flow History</string>
+    <string name="ultima_lectura">Last Reading</string>
+    <string name="flujo">Flow</string>
+    <string name="presion">Pressure</string>
+    <string name="vibracion">Vibration</string>
+    <string name="onboarding_welcome">Welcome to FugasApp!</string>
+    <string name="onboarding_intro">To get started, link your monitoring device.</string>
+    <string name="onboarding_step1">1. Turn on the device and bring it close to your phone.</string>
+    <string name="onboarding_step2">2. Tap the 'Link' button to start the connection.</string>
+    <string name="onboarding_step3">3. Wait for confirmation and you're done!</string>
+    <string name="onboarding_link">Link</string>
+    <string name="onboarding_linking">Linking device...</string>
+    <string name="onboarding_success">Device successfully linked!</string>
+    <string name="onboarding_continue">Continue</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_back">Back</string>
+    <string name="onboarding_title">Device Linking</string>
+    <string name="error_connection">Connection error</string>
+    <string name="retry">Retry</string>
+    <string name="critical">Critical</string>
+    <string name="alert">Alert</string>
+    <string name="attention">Attention</string>
+    <string name="normal">Normal</string>
+</resources>

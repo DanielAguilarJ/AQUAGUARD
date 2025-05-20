@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FugasApp</string>
+    <string name="monitor_title">Monitoreo de Fugas</string>
+    <string name="config_title">Configuración</string>
+    <string name="endpoint_label">Endpoint Backend</string>
+    <string name="endpoint_hint">Ejemplo: https://tubackend.com/api/</string>
+    <string name="error_label">Error</string>
+    <string name="error_connection">Error de conexión</string>
+    <string name="historico_flujo">Histórico de Flujo</string>
+    <string name="ultima_lectura">Última lectura</string>
+    <string name="flujo">Flujo</string>
+    <string name="presion">Presión</string>
+    <string name="vibracion">Vibración</string>
+    <string name="onboarding_welcome">¡Bienvenido a FugasApp!</string>
+    <string name="onboarding_intro">Para comenzar, vincula tu dispositivo de monitoreo.</string>
+    <string name="onboarding_step1">1. Enciende el dispositivo y acércalo a tu teléfono.</string>
+    <string name="onboarding_step2">2. Pulsa el botón 'Vincular' para iniciar la conexión.</string>
+    <string name="onboarding_step3">3. Espera la confirmación y ¡listo!</string>
+    <string name="onboarding_link">Vincular</string>
+    <string name="onboarding_linking">Vinculando dispositivo...</string>
+    <string name="onboarding_success">¡Dispositivo vinculado exitosamente!</string>
+    <string name="onboarding_continue">Continuar</string>
+    <string name="onboarding_next">Siguiente</string>
+    <string name="onboarding_back">Atrás</string>
+    <string name="onboarding_title">Vinculación de dispositivo</string>
+    <string name="retry">Reintentar</string>
+    <string name="critical">Crítico</string>
+    <string name="alert">Alerta</string>
+    <string name="attention">Atención</string>
+    <string name="normal">Normal</string>
+</resources>
