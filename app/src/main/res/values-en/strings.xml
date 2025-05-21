@@ -13,8 +13,8 @@
     <string name="onboarding_welcome">Welcome to FugasApp!</string>
     <string name="onboarding_intro">To get started, link your monitoring device.</string>
     <string name="onboarding_step1">1. Turn on the device and bring it close to your phone.</string>
-    <string name="onboarding_step2">2. Tap the 'Link' button to start the connection.</string>
-    <string name="onboarding_step3">3. Wait for confirmation and you're done!</string>
+    <string name="onboarding_step2">2. Tap the Link button to start the connection.</string>
+    <string name="onboarding_step3">3. Wait for confirmation and you are done!</string>
     <string name="onboarding_link">Link</string>
     <string name="onboarding_linking">Linking device...</string>
     <string name="onboarding_success">Device successfully linked!</string>

@@ -14,8 +14,8 @@
     <string name="onboarding_welcome">¡Bienvenido a FugasApp!</string>
     <string name="onboarding_intro">Para comenzar, vincula tu dispositivo de monitoreo.</string>
     <string name="onboarding_step1">1. Enciende el dispositivo y acércalo a tu teléfono.</string>
-    <string name="onboarding_step2">2. Pulsa el botón 'Vincular' para iniciar la conexión.</string>
-    <string name="onboarding_step3">3. Espera la confirmación y ¡listo!</string>
+    <string name="onboarding_step2">2. Pulsa el boton Vincular para iniciar la conexion.</string>
+    <string name="onboarding_step3">3. Espera la confirmacion y listo!</string>
     <string name="onboarding_link">Vincular</string>
     <string name="onboarding_linking">Vinculando dispositivo...</string>
     <string name="onboarding_success">¡Dispositivo vinculado exitosamente!</string>
