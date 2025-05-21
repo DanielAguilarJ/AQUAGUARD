@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.FugasApp" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.FugasApp" parent="Theme.Material3.DayNight">
         <!-- Personaliza los colores y atributos según tu branding -->
-        <item name="android:statusBarColor">?attr/colorPrimary</item>
-        <item name="android:navigationBarColor">?attr/colorPrimary</item>
         <item name="android:windowBackground">@android:color/white</item>
     </style>
 </resources>
