@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.FugasApp" parent="Theme.Material3">
-        <!-- Personaliza los colores y atributos según tu branding -->
+    <style name="Theme.FugasApp" parent="android:Theme.Light.NoActionBar">
+        <!-- Solo para cumplir con el Manifest, el tema real es FugasAppTheme en Compose -->
         <item name="android:windowBackground">@android:color/white</item>
-        <!-- Compatibilidad con Material 2 -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
-        <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <style name="Theme.Material3.DayNight.NoActionBar" parent="Theme.Material3" />
+    <!-- Alias para compatibilidad si alguna dependencia lo requiere -->
+    <style name="Theme.Material3.DayNight.NoActionBar" parent="android:Theme.Light.NoActionBar" />
 </resources>
